@@ -1,0 +1,43 @@
+.header {
+    background-color: mediumpurple;
+    padding: 7px;
+    text-align: center;
+    height: 70px;
+}
+.nav{
+    background-color: mediumpurple;
+    text-align: center;
+    height: 150px;
+}
+.side1{
+    background-color: mediumpurple;
+    text-align: center;
+    width: 31%;
+    float: left;
+    margin: 15px;
+}
+.center{
+    background-color: mediumpurple;
+    text-align: center;
+    width: 31%;
+    float: left;
+    margin:15px;
+    border-color: white;
+}
+.side2{
+    background-color: mediumpurple;
+    text-align: center;
+    float: right;
+    width: 31%;
+    margin:15px;
+}
+
+.footer {
+    background-color: mediumpurple;
+    width: 100%;
+    height: 65px;
+    padding: 1px;
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+}

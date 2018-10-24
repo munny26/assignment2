@@ -1,0 +1,19 @@
+
+.side{
+    width: 160px;
+    background-color:red;
+    float: left;
+    height: 200px;
+}
+.middle{
+    width:995px;
+    background-color: blue;
+    float: left;
+    height: 640px;
+}
+.right{
+    width:190px;
+    background-color: red;
+    float: left;
+    height: 400px;
+}

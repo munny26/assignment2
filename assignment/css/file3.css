@@ -1,0 +1,27 @@
+
+.side {
+	width:448px;
+    height:388px; 
+    float:left; 
+    border: 2px solid yellow;
+    text-align: center;
+}
+.middle{
+    width:447px; 
+    height:388px; 
+    float:left; 
+    border: 2px solid  red; 
+    border-right-color: purple;
+}
+.right {
+    background-color:lawngreen; 
+    width:447px; 
+    height:390px; 
+    float:left; 
+    border: 2px green;
+	
+}
+
+
+
+

@@ -1,0 +1,40 @@
+.maincontent{
+    width: 125px;
+    height: 312px;
+    background-color: lightgrey;
+    float: left;
+    margin: 4px;
+}
+.header{
+    width:1175px;
+    text-align: center;
+    background-color: lightgrey;
+    height: 52px;
+    display: inline-block;
+    float: left;
+    margin: 3px;
+}
+.left{
+    width: 580px;
+    height: 180px;
+    float: left;
+    text-align: center;
+    background-color: lightgrey;
+    margin: 10px;
+}
+.right{
+    width: 580px;
+    height: 180px;
+    float: left;
+    text-align: center;
+    background-color: lightgrey;
+    margin: 8px;
+}
+.footer{
+    width: 1180px;
+    height: 50px;
+    text-align: center;
+    background-color: lightgrey;
+    float: left;
+    margin: 8px;
+}

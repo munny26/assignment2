@@ -1,0 +1,43 @@
+.div{
+    border: 6px solid black; height:340px;
+}
+.dd{
+    width:235px; 
+    height:340px;  
+    float: left;
+    background-color:red;
+}
+.dd1{
+    width:120px; 
+    height:340px; 
+    float:left;
+    text-align: center;
+}
+.dd2{
+    width:235px; 
+    height:340px; 
+    float:left; 
+    background-color:red;
+}
+.dd3{
+    width:120px; 
+    height:340px; 
+    float:left;
+}
+.dd4{
+    width:235px; 
+    height:340px; 
+    float:left; 
+    background-color:red;
+}
+.dd5{
+    width:120px; 
+    height:340px; 
+    float:left; 
+}
+.dd6{
+    width:235px; 
+    height:340px; 
+    float:right; 
+    background-color:red;
+}
